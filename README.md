@@ -16,7 +16,7 @@ Game starts with web alert where player have to set health points for both fight
 
 ![image](https://user-images.githubusercontent.com/44081987/153306799-63b68b1f-437a-490e-a11f-af2a5e70c425.png)
 
-After each player action (attack or heal), monster hits player and deal random damage. Also every player attack deals random damage value to a monster.
+After each player action (attack or heal), monster hits player and deals random damage. Also every player attack deals random damage value to a monster.
 After each hit, health bar is updated:
 
 ![image](https://user-images.githubusercontent.com/44081987/153308605-f868b3b1-ffca-4674-967a-84082b49cf25.png)
