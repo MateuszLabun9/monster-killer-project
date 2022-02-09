@@ -8,7 +8,8 @@ User can choose between 4 different actions:
   - Strong attack
   - Heal
   - Show log
-PLayer and monster have their health bars. In addition, player have bonus life. 
+  
+Player and monster have their health bars. In addition, player have bonus life. 
 
 ![image](https://user-images.githubusercontent.com/44081987/153305414-06a0d84a-fc6f-4f0d-8161-3dc0f177953e.png)
 
